@@ -9,7 +9,7 @@ Official [Beta](https://en.wikipedia.org/wiki/Beta) .apk files of Cat's Happy Pl
 
 ## FAQ
 
-#### Why Is the Player Floating
+#### Why Is the Player Floating?
 
 We Dont Know yet! If you want to play the game, You might have to Disconnect your wifi for better physics, We're Still Working on it!
 
